@@ -17,9 +17,8 @@ In this ‘Data Analysis’ project, we’ll analyze a global Pharmaceutical Man
 - [Dataset](#dataset)
 - [Solution Approach](#solution-approach)
 - [How To Use](#how-to-use)
-- [License](#license)
 - [Credits](#credits)
-- [Get in touch](#get-in-touch)
+
 
 
 ## Introduction
