@@ -12,7 +12,7 @@ In this ‘Data Analysis’ project, I have analyze a global Pharmaceutical Manu
 ⚡Multipage fully Interactive Report [For drawing insights and analysis] 
 
 ## Table of Contents
-- [Introduction](#introduction) 
+- [About the Sales Data](#Ablut the Sales Data) 
 - [Objective](#objective)
 - [Dataset](#dataset)
 - [Solution Approach](#solution-approach)
@@ -21,7 +21,7 @@ In this ‘Data Analysis’ project, I have analyze a global Pharmaceutical Manu
 
 
 
-## Introduction
+## About the Sales Data
 * `Datamatrix-ml Pharmaceuticals` is one of the leading Pharmaceutical Manufacturing companies with a global presence. 
 * Their Markets are divided into different regions across the world. One of those regions manages the German and Poland Markets. 
 * Company does not sell directly to customers. Instead, they work with a couple of Distributors in all their regions. 
