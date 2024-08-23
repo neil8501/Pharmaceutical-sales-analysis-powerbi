@@ -73,7 +73,7 @@ The dataset is sourced from each distributor. It contains Pharmaceutical Manufac
 ***Table-3 : Proposed Solution***
 
 ### Exploratory Data Analysis (EDA) [pandas]
-To understand, be familiar with and check the sanity of the given data, the first step is EDA. This project's initial data exploration has been carried out using the `pandas` python package. Here, in general, we are checking... 
+
  * Presence of any missing values 
  * Any unusual value (outliers) 
  * Incorrect values (e.g., sales column, we see -ve numbers)
@@ -90,7 +90,7 @@ The provided dataset was relatively clean and well organized; hence only a littl
 
 ### Data Model Creation [PowerBI Desktop]
 * The provided data is in a single table format. The exploration revealed that it contains both categorical (`dimensions`) and numeric (`facts`) data. 
-* We build a data model where dimensions and facts are separated, then they are linked together by logical relationship to form a `star schema.` The resultant data model is shown below...
+* I build a data model where dimensions and facts are separated, then they are linked together by logical relationship to form a `star schema.` The resultant data model is shown below...
 
 <img src="https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/images/data-model.png?raw=true"/>
 
