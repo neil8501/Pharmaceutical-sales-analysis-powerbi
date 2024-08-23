@@ -12,7 +12,7 @@ In this ‘Data Analysis’ project, I have analyze a global Pharmaceutical Manu
 ⚡Multipage fully Interactive Report [For drawing insights and analysis] 
 
 ## Table of Contents
-- [About the Sales Data](#About the Sales Data) 
+- [About the Sales Data](#Dataset-Information) 
 - [Objective](#objective)
 - [Dataset](#dataset)
 - [Solution Approach](#solution-approach)
