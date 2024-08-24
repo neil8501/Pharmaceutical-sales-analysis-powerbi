@@ -1,5 +1,4 @@
-[![Open In Power Bi](https://img.shields.io/badge/open_in_power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMTQ1YjJiODctNmJjMS00NGYwLWFjMWEtNGE5YzdkYWUyYzIwIiwidCI6ImFlZDI3MWNkLTYzOTgtNDllZi1hOWNmLTQ4NDIyMTAxZTE0ZSIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?r=eyJrIjoiNTA2ZTMwOTItMzdkNS00MWRiLThkNGMtMzE0NDQzOTU3MDU2IiwidCI6ImU1YTA2ZjRhLTFlYzQtNGQwMS04ZjczLWU3ZGQxNWYyNjEzNCIsImMiOjN9)
-
+[![Open In Power Bi](https://img.shields.io/badge/open_in_power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMTQ1YjJiODctNmJjMS00NGYwLWFjMWEtNGE5YzdkYWUyYzIwIiwidCI6ImFlZDI3MWNkLTYzOTgtNDllZi1hOWNmLTQ4NDIyMTAxZTE0ZSIsImMiOjEwfQ%3D%3D)  
 # Pharmaceutical Sales Analysis
 In this ‘Data Analysis’ project, I have analyze a global Pharmaceutical Manufacturing Company's raw sales data and draw meaningful insights.
 
